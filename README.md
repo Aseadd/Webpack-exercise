@@ -4,7 +4,7 @@ This project is the skeleton for a book management application.
 
 ## 🧰 Built With
 
-- Configuring Webpack
+- Webpack
 - HTML
 - CSS
 - JS-ES6
