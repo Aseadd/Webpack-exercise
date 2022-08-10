@@ -1,6 +1,6 @@
 # Webpack-exercise
 
-This project is the skeleton for a book management application.
+This project is the skeleton for Todo list Application
 
 ## 🧰 Built With
 
