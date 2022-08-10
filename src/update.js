@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 function updateStatus(selectedTask) {
   let taskName = selectedTask.parentElement.lastElementChild;
   if (selectedTask.checked) {
